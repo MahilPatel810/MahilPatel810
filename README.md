@@ -1,44 +1,47 @@
-👋 Hi, I'm Mahil Kotadiya (MahilPatel810)
-🚀 Computer Science & Engineering Student | IoT & Robotics Developer | Tech Enthusiast
-Welcome to my GitHub profile! I am a passionate developer bridging the gap between hardware and software. I build IoT systems, autonomous robots, and modern web applications.
+Hey there, I'm Mahil Kotadiya (Mahil Patel) 👋
+🎓 Computer Science & Engineering Student | 🤖 Robotics & IoT Developer | 💻 Coder
+Typing Animation
 
-🛠️ Tech Stack & Skills
-⚡ Hardware & IoT
+💫 About Me
+🧩 Hardware Meets Software: I love building things that move, sense, and communicate. I specialize in bridging the gap between embedded hardware (Arduino, ESP32) and modern web dashboards (Next.js, TypeScript).
+💻 My Development Loop: Schematics & Prototyping 🔌 ➔ Firmware Development (C++) 💾 ➔ Web Integration (Next.js/IoT) 🌐 ➔ Calibration & Testing 🛠️ ➔ Iterative Improvements 🔄
+🤖 Robotics & Automation: Engineered autonomous line-following and collision-avoidance robots with real-time sensor processing and dynamic speed scaling.
+🌐 3D Web Interfaces: Developed a fully animated personal portfolio using React Three Fiber / Three.js and Framer Motion to showcase hardware projects interactively.
+🛠️ Key Skills & Technologies
+⚡ Embedded & IoT Hardware
 Arduino
+ 
 ESP32
-Raspberry Pi
-Sensors & Actuators | Embedded Systems | PID Logic | MQTT
-
-🌐 Frontend Web
-Next.js
-TypeScript
-JavaScript
-HTML5
-CSS3
-
-💻 Languages & Tools
+ 
 C++
-Git
-VS Code
 
-📁 Featured Repositories
-🌟 Portfolio Website
-Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Framer Motion, Three.js
+Microcontrollers: Arduino Uno, ESP32, ESP8266
+Protocols: MQTT, Wi-Fi, HTTP, Serial Communication
+Hardware Controls: IR Sensor Arrays, Ultrasonic Distance Sensors, Relay Modules, LCDs, Motor Drivers (L298N)
+Algorithms: PID Control Logic, Dynamic Obstacle Deceleration
+🌐 Modern Web Development
+Next.js
+ 
+TypeScript
+ 
+Tailwind CSS
+
+Core Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+3D Web Rendering: Three.js Integration
+Animations: Framer Motion (Page Transitions, Interactive Hover Cards)
+Deployment & Tools: Git, GitHub, VS Code, Vercel
+🌟 Featured Projects
+📡 Next.js Personal 3D Portfolio
+Skills Highlighted: Next.js, TypeScript, Framer Motion, Three.js, Vercel
+A premium personal showcase designed with rich visuals, responsive layouts, and interactive 3D elements to demo IoT and robotics engineering outputs.
 Live Demo: mahilportfolio.vercel.app
-Description: A premium personal portfolio displaying my IoT, robotics, and software engineering projects with interactive 3D elements and micro-animations.
-🍽️ Restaurant Order System (C++ Mini Project)
-Language: C++ (OOPs)
-Description: A console-based order management system that tracks menu items, computes total bills dynamically, and processes orders using classes like MenuItem, Menu, and Order.
-🎓 Student Hub Portal
-Tech Stack: HTML, CSS properties practicing
-Description: A complete static website mockup for managing student details, assignments, courses, profile, and attendance, designed for a responsive dashboard feel.
-🤖 Core Robotics & IoT Achievements (Showcased in Portfolio)
-Smart Parking System: Developed an ESP32-powered occupancy tracking system using Ultrasonic sensors feeding a real-time web dashboard.
-Autonomous Robots: Implemented a Line Following Robot utilizing IR sensor arrays with PID-style steering, and a Collision-Avoidance Robot using ultrasonic distance sensors and dynamic speed control.
-📊 GitHub Stats
-Mahil's GitHub statsTop Languages
+🍽️ Restaurant Order System (C++ Project)
+Skills Highlighted: C++ (OOPs), Memory Optimization, Data Structuring
+A console-based restaurant management shell implementing MenuItem cataloging, real-time dynamic shopping cart billing, and search validations.
+🌐 Connect With Me
+GitHubLinkedIn
+Email
 
-🤝 Get in Touch!
-📧 Email: [Add your email here]
-🔗 LinkedIn: [Add your LinkedIn link here]
-🌐 Website: mahilportfolio.vercel.app
+📊 GitHub Stats
+GitHub Stats	Top Languages
+GitHub Streak
