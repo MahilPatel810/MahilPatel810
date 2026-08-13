@@ -1,47 +1,36 @@
-Hey there, I'm Mahil Kotadiya (Mahil Patel) 👋
-🎓 Computer Science & Engineering Student | 🤖 Robotics & IoT Developer | 💻 Coder
-Typing Animation
+<div align="center">
+  <h1>👋 Hello, I'm Mahil Kotadiya</h1>
+  <p><i>Computer Science & Engineering Student | Robotics Enthusiast | IoT Developer</i></p>
+  
+  <!-- Animated Typing Text for Skills -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2196F3&center=true&vCenter=true&width=500&lines=Arduino+%26+ESP32+Developer;IoT+Systems+Innovator;Robotics+Enthusiast;C%2FC%2B%2B+Programmer" alt="Animated Skills Typing SVG" />
+  </a>
+</div>
 
-💫 About Me
-🧩 Hardware Meets Software: I love building things that move, sense, and communicate. I specialize in bridging the gap between embedded hardware (Arduino, ESP32) and modern web dashboards (Next.js, TypeScript).
-💻 My Development Loop: Schematics & Prototyping 🔌 ➔ Firmware Development (C++) 💾 ➔ Web Integration (Next.js/IoT) 🌐 ➔ Calibration & Testing 🛠️ ➔ Iterative Improvements 🔄
-🤖 Robotics & Automation: Engineered autonomous line-following and collision-avoidance robots with real-time sensor processing and dynamic speed scaling.
-🌐 3D Web Interfaces: Developed a fully animated personal portfolio using React Three Fiber / Three.js and Framer Motion to showcase hardware projects interactively.
-🛠️ Key Skills & Technologies
-⚡ Embedded & IoT Hardware
-Arduino
- 
-ESP32
- 
-C++
+<br>
 
-Microcontrollers: Arduino Uno, ESP32, ESP8266
-Protocols: MQTT, Wi-Fi, HTTP, Serial Communication
-Hardware Controls: IR Sensor Arrays, Ultrasonic Distance Sensors, Relay Modules, LCDs, Motor Drivers (L298N)
-Algorithms: PID Control Logic, Dynamic Obstacle Deceleration
-🌐 Modern Web Development
-Next.js
- 
-TypeScript
- 
-Tailwind CSS
+Welcome to my GitHub! I am a passionate developer currently pursuing my Computer Science and Engineering degree. I specialize in bridging the gap between hardware and software, crafting smart, connected experiences that push the boundaries of what technology can do.
 
-Core Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
-3D Web Rendering: Three.js Integration
-Animations: Framer Motion (Page Transitions, Interactive Hover Cards)
-Deployment & Tools: Git, GitHub, VS Code, Vercel
-🌟 Featured Projects
-📡 Next.js Personal 3D Portfolio
-Skills Highlighted: Next.js, TypeScript, Framer Motion, Three.js, Vercel
-A premium personal showcase designed with rich visuals, responsive layouts, and interactive 3D elements to demo IoT and robotics engineering outputs.
-Live Demo: mahilportfolio.vercel.app
-🍽️ Restaurant Order System (C++ Project)
-Skills Highlighted: C++ (OOPs), Memory Optimization, Data Structuring
-A console-based restaurant management shell implementing MenuItem cataloging, real-time dynamic shopping cart billing, and search validations.
-🌐 Connect With Me
-GitHubLinkedIn
-Email
+---
 
-📊 GitHub Stats
-GitHub Stats	Top Languages
-GitHub Streak
+### 🚀 About Me & My Vision
+
+I have a deep, sustained interest in autonomous robotics, electronic systems, and Internet of Things (IoT) applications. My approach to technology is highly hands-on—whether it is writing code for a microcontroller or wiring up industrial sensors. 
+
+Currently, my focus is expanding into **Artificial Intelligence (AI)** and **Machine Learning (ML)**, with the ultimate goal of running edge inference directly on embedded devices to create truly autonomous systems.
+
+### 🛠️ Technical Arsenal
+
+*   **Languages:** C, C++, JavaScript, HTML, CSS
+*   **Hardware:** Arduino Uno, ESP32 Microcontrollers, Various IoT Sensors (IR, Ultrasonic)
+*   **Concepts:** Embedded Systems, IoT Cloud Integration, Autonomous Navigation, Relay-based Automation
+
+<br>
+
+### 📬 Let's Connect!
+
+I am always open to discussing tech, robotics, or innovative IoT ideas.
+
+*   🌐 **Portfolio Website:** [mahilportfolio.vercel.app](https://mahilportfolio.vercel.app/)
+*   💼 **LinkedIn:** [Mahil Kotadiya](https://www.linkedin.com/in/mahil-kotadiya-792b4b377)
